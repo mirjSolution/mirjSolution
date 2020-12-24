@@ -1,4 +1,3 @@
 Hi there 👋
 
-I graduated with a BS in Computer Science back in the Philippines. I am currently living in Canada as a new immigrant.
-I have work for 3 years as a programmer back in the Philippines, but it was some time ago. Now, I am a student at CarrerFoundry’s Full Stack Web Development Immersion to upgrade my skills.
+I graduated with a degree of BS in Computer Science and worked for 3 years as a programmer back in Philippines. I am a new immigranthere in Canada and currently enrolled on a professional certification at CareerFoundry taking up the Full Stack Web Development Immersion Bootcamp.
