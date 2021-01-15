@@ -1,3 +1,3 @@
 Hi there 👋
 
-I graduated with a degree of BS in Computer Science and worked for 3 years as a programmer back in Philippines. I am a new immigrant here in Canada and currently enrolled on a professional certification at CareerFoundry taking up the Full Stack Web Development Immersion Bootcamp. To upgrade my skills.
+Web Developer with a background in Telecommunication and Hospitality. Experience in customer service and problem-solving skills in a working environment that is very fast-paced but remains resilient and calm under pressure.
