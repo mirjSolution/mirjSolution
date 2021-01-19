@@ -6,7 +6,7 @@ I was also a part of the Hospitality industry for 14 years. My experience in tec
 
 The skills gained in the hotel and telephone industry came in useful as a web developer.
 
-I found my spark in building websites and look forward to sharing my skills, experiences, and abilities to create remarkable web pages.
+I found my spark in building websites and look forward to sharing my skills, experiences, and abilities to create remarkable web pages
 
 ---
 
