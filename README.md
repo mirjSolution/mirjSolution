@@ -12,7 +12,7 @@ I found my spark in building websites and look forward to sharing my skills, exp
 
 ### Let's create clean code and connect with me:
 
-[![Portfolio Page](https://img.shields.io/badge/WWW-Portfolio%20Page-05676e?style=flat-square&link=https://ricojohn-dato-on.netlify.app/)](https://ricojohn-dato-on.netlify.app/)[![Linkedin Badge](https://img.shields.io/badge/-Rico%20John%20Dato--on-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rico-john-dato-on-41067a25/)](https://www.linkedin.com/in/rico-john-dato-on-41067a25/)[![Gmail Badge](https://img.shields.io/badge/-ricojohndatoon23@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricojohndatoon23@gmail.com)](mailto:ricojohndatoon23@gmail.com)
+[![Portfolio Page](https://img.shields.io/badge/WWW-Portfolio%20Page-05676e?style=flat-square&link=https://ricojohn-dato-on.netlify.app/)](https://ricojohn-dato-on.netlify.app/)[![Linkedin Badge](https://img.shields.io/badge/-Rico%20John%20Dato--on-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rico-john-dato-on/)](https://www.linkedin.com/in/rico-john-dato-on/)[![Gmail Badge](https://img.shields.io/badge/-ricojohndatoon23@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricojohndatoon23@gmail.com)](mailto:ricojohndatoon23@gmail.com)
 
 ![Profile last updated](https://img.shields.io/github/last-commit/mirjsolution/mirjsolution/main?label=Last%20updated&style=flat-square)
 
