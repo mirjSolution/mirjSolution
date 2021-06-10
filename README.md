@@ -1,8 +1,8 @@
 Hi there 👋
 
-I’m Rico, a Web Developer. I worked as an I.T. support/programmer in a telephone company where I handled troubleshooting and developed desktop applications that helped employees work more efficiently. 
+I’m Rico, a Web Developer. I worked as an I.T. support/programmer in a telephone company for 3 years where I handled troubleshooting and developed desktop applications that helped employees work more efficiently. 
 
-I was a Housekeeper for 14 years. My experience in technology came in hand, when I developed a desktop application as a side project and worked collaboratively with managers in building a presentation to use for training staff in maintaining the five-star quality of the services we offer. 
+I was a Housekeeper for 14 years transitioning back to I.T Industry. My experience in technology came in hand, when I developed a desktop application as a side project and worked collaboratively with managers in building a presentation to use for training staff in maintaining the five-star quality of the services we offer. 
 
 The skills gained in the hotel and telephone industry came in useful as a web developer.
 
