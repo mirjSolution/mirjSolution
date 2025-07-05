@@ -11,7 +11,7 @@ With a background in computer science and certifications in AWS, CompTIA A+, Net
 
 ## 📚 Current DevOps Learning Stack
 
-I’m currently building hands-on experience with tools across the full DevOps lifecycle:
+I’m currently building hands-on experience with tools across the full DevOps lifecycle and I’m documenting everything I learn. Check my repos for:
 
 - 🖥️ Linux & Shell Scripting – Ubuntu CLI, user management, permissions, scripting basics
 - 🧠 Version Control – Git, GitHub, branching strategies for DevOps
@@ -23,20 +23,7 @@ I’m currently building hands-on experience with tools across the full DevOps l
 - 🧾 Configuration Management – Ansible for app/server automation
 - 📈 Monitoring – Prometheus, Grafana, Alertmanager for infra/app health
 - 🐍 Python Automation – Boto3 for AWS tasks, scripts for monitoring & tagging
-
----
-
-## 📘 Projects & Labs
-
-I’m documenting everything I learn. Check my repos for:
-
-- ✅ Linux CLI & shell scripting labs  
-- 🐳 Dockerized app environments  
-- ⚙️ Jenkins pipelines & Git automation  
-- ☁️ Terraform infrastructure deployments  
-- ☸️ Kubernetes app deployment with Helm  
-- 📈 Monitoring dashboards with Prometheus + Grafana  
-
+  
 ---
 
 ## 💬 Let's Connect
