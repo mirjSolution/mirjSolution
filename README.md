@@ -9,19 +9,6 @@
 
 With a background in computer science and certifications in AWS, CompTIA A+, Network+, and Security+, I’ve reignited my IT career through hands-on labs, a full-stack web bootcamp, and now — diving deep into DevOps.
 
-I’m building my way forward:
-- One command line at a time  
-- One virtual machine at a time  
-- One pipeline, container, and cloud server at a time
-
-I don’t have a traditional path, but I have:
-- Grit  
-- Discipline  
-- Consistency  
-- And a willingness to learn every single day
-
----
-
 ## 📚 Current DevOps Learning Stack
 
 I’m currently building hands-on experience with tools across the full DevOps lifecycle:
