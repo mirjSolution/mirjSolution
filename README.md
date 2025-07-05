@@ -20,8 +20,6 @@ I don’t have a traditional path, but I have:
 - Consistency  
 - And a willingness to learn every single day
 
-I’m not just learning DevOps — **I’m proving what’s possible when you don’t quit.**
-
 ---
 
 ## 📚 Current DevOps Learning Stack
