@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rico John C. Dato-on
 
-🎯 **Aspiring DevOps Engineer | Self-Taught Cloud Enthusiast | AWS Certified | Certified CompTIA A+, Network+, Security+ | Certified Full-Stack Web Developer - CareerFoundry | IT System Administration Graduate – triOS College | BSCS Graduate - STI Philippines
+🎯 Aspiring DevOps Engineer | Self-Taught Cloud Enthusiast | AWS Certified | Certified CompTIA A+, Network+, Security+ | Certified Full-Stack Web Developer - CareerFoundry | IT System Administration Graduate – triOS College | BSCS Graduate - STI Philippines
 📍 Based in Toronto, Canada 🇨🇦  
 🌐 [My Portfolio Website](https://ricodatoon.netlify.app) | [LinkedIn](https://www.linkedin.com/in/rico-john-dato-on)
 
