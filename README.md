@@ -14,7 +14,7 @@ With a background in computer science and certifications in AWS, CompTIA A+, Net
 
 I’m currently building hands-on experience with tools across the full DevOps lifecycle and I’m documenting everything I learn. Check my repos for:
 
-- [🖥️ Linux & Shell Scripting – Ubuntu CLI, user management, permissions, scripting basics] (https://github.com/mirjSolution/Linux-Module)
+- 🖥️ [Linux & Shell Scripting – Ubuntu CLI, user management, permissions, scripting basics](https://github.com/mirjSolution/Linux-Module)
 - [Installing Ubuntu OS on VirtualBox (macOS - Intel)](https://github.com/mirjSolution/Installing-Ubuntu-OS-on-VirtualBox-macOS---Intel-)
 - 🧠 Version Control – Git, GitHub, branching strategies for DevOps
 - ⚙️ Build & Artifact Tools – Maven, npm, Nexus Repository
