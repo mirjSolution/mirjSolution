@@ -15,7 +15,7 @@ With a background in computer science and certifications in AWS, CompTIA A+, Net
 I’m currently building hands-on experience with tools across the full DevOps lifecycle and I’m documenting everything I learn. Check my repos for:
 
 - 🖥️ [Linux & Shell Scripting – Ubuntu CLI, user management, permissions, scripting basics](https://github.com/mirjSolution/Linux-Module)
-- 🧠 Version Control – Git, GitHub, branching strategies for DevOps
+- 🧠 [Version Control – Git, GitHub, branching strategies for DevOps](https://github.com/mirjSolution/Git-Module)
 - ⚙️ Build & Artifact Tools – Maven, npm, Nexus Repository
 - 🐳 Containers – Docker, Compose, private registries, container deployment
 - 🔁 CI/CD – Jenkins pipelines, GitHub Actions, automation with Docker
