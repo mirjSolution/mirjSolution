@@ -13,8 +13,8 @@ With a background in computer science and certifications in AWS, CompTIA A+, Net
 My ongoing independent learning journey is equipping me with practical expertise across key technologies, including:
 
 - 🖥️ [Linux & Shell Scripting – Ubuntu CLI, user management, permissions, scripting basics](https://github.com/mirjSolution/Linux-Module)
-- 🧠 [Version Control – Git, GitHub, branching strategies for DevOps](https://github.com/mirjSolution/Git-Module)
-- 🗄️ [Database Overview for DevOps](https://github.com/mirjSolution/Database-Overview-for-DevOps)
+- 🧠 [Version Control – Git, GitHub, branching strategies](https://github.com/mirjSolution/Git-Module)
+- 🗄️ [Database Overview](https://github.com/mirjSolution/Database-Overview-for-DevOps)
 - ⚙️ Build & Artifact Tools – Maven, npm, Nexus Repository
 - 🐳 Containers – Docker, Compose, private registries, container deployment
 - 🔁 CI/CD – Jenkins pipelines, GitHub Actions, automation with Docker
