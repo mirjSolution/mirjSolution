@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rico John C. Dato-on
 
-🎯 Aspiring DevOps Engineer | Self-Taught Cloud Enthusiast | AWS Certified | Certified CompTIA A+, Network+, Security+ | Certified Full-Stack Web Developer - CareerFoundry | IT System Administration Graduate – triOS College | BSCS Graduate - STI Philippines
+🎯 AWS Certified | Certified CompTIA A+, Network+, Security+ | Certified Full-Stack Web Developer - CareerFoundry | IT System Administration Graduate – triOS College | BSCS Graduate - STI Philippines
 
 📍 Based in Toronto, Canada 🇨🇦  
 
@@ -8,11 +8,7 @@
 
 ## 🚀 About Me
 
-With a background in computer science and certifications in AWS, CompTIA A+, Network+, and Security+, I’ve reignited my IT career through hands-on labs, a full-stack web bootcamp, and now — diving deep into DevOps.
-
-## 📚 Current DevOps Learning Stack
-
-I’m currently building hands-on experience with tools across the full DevOps lifecycle and I’m documenting everything I learn. Check my repos for:
+With a background in computer science and certifications in AWS, CompTIA A+, Network+, and Security+, I've reignited my IT career through hands-on labs, now focusing on Cloud Infrastructure and Automation development. My ongoing independent learning journey is equipping me with practical expertise across key technologies, including:
 
 - 🖥️ [Linux & Shell Scripting – Ubuntu CLI, user management, permissions, scripting basics](https://github.com/mirjSolution/Linux-Module)
 - 🧠 [Version Control – Git, GitHub, branching strategies for DevOps](https://github.com/mirjSolution/Git-Module)
