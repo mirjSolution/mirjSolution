@@ -8,7 +8,9 @@
 
 ## 🚀 About Me
 
-With a background in computer science and certifications in AWS, CompTIA A+, Network+, and Security+, I've reignited my IT career through hands-on labs, now focusing on Cloud Infrastructure and Automation development. My ongoing independent learning journey is equipping me with practical expertise across key technologies, including:
+With a background in computer science and certifications in AWS, CompTIA A+, Network+, and Security+, I've reignited my IT career through hands-on labs, now focusing on Cloud Infrastructure and Automation development.
+
+My ongoing independent learning journey is equipping me with practical expertise across key technologies, including:
 
 - 🖥️ [Linux & Shell Scripting – Ubuntu CLI, user management, permissions, scripting basics](https://github.com/mirjSolution/Linux-Module)
 - 🧠 [Version Control – Git, GitHub, branching strategies for DevOps](https://github.com/mirjSolution/Git-Module)
