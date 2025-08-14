@@ -16,7 +16,7 @@ My ongoing independent learning journey is equipping me with practical expertise
 - [Version Control – Git, GitHub, branching strategies](https://github.com/mirjSolution/Git-Module)
 - [Database Overview](https://github.com/mirjSolution/Database-Overview-for-DevOps)
 - [Build & Artifact Tools – Gradle, maven, npm, pip](https://github.com/mirjSolution/DevOps-Engineer-Responsibilities-in-Build-and-Release-Cycle)
-- [DevOps Self-Lab Project: AWS EC2 Infrastructure & Tool Setup](https://github.com/mirjSolution/DevOps-Self-Lab-Project-AWS-EC2-Infrastructure-Tool-Setup)
+- [AWS EC2 Infrastructure & Tool Setup](https://github.com/mirjSolution/DevOps-Self-Lab-Project-AWS-EC2-Infrastructure-Tool-Setup)
 - [CI/CD Pipeline Setup of Java Application Project on AWS EC2 with Jenkins, Docker, Maven, Trivy and SonarQube](https://github.com/mirjSolution/Continuous-Integration-Pipeline-Setup-of-Java-Application-Project-)
   
 ---
