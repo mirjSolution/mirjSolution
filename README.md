@@ -12,17 +12,12 @@ With a background in computer science and certifications in AWS, CompTIA A+, Net
 
 My ongoing independent learning journey is equipping me with practical expertise across key technologies, including:
 
-- 🖥️ [Linux & Shell Scripting – Ubuntu CLI, user management, permissions, scripting basics](https://github.com/mirjSolution/Linux-Module)
-- 🧠 [Version Control – Git, GitHub, branching strategies](https://github.com/mirjSolution/Git-Module)
-- 🗄️ [Database Overview](https://github.com/mirjSolution/Database-Overview-for-DevOps)
-- ⚙️ [Build & Artifact Tools – Gradle, maven, npm, pip](https://github.com/mirjSolution/DevOps-Engineer-Responsibilities-in-Build-and-Release-Cycle)
-- 🐳 Containers – Docker, Compose, private registries, container deployment
-- 🔁 CI/CD – Jenkins pipelines, GitHub Actions, automation with Docker
-- ☁️ Cloud & IaC – AWS (EC2, IAM, EKS), Terraform for cloud infrastructure
-- ☸️ Kubernetes – Minikube, kubectl, Helm, microservices deployment
-- 🧾 Configuration Management – Ansible for app/server automation
-- 📈 Monitoring – Prometheus, Grafana, Alertmanager for infra/app health
-- 🐍 Python Automation – Boto3 for AWS tasks, scripts for monitoring & tagging
+- [Linux & Shell Scripting – Ubuntu CLI, user management, permissions, scripting basics](https://github.com/mirjSolution/Linux-Module)
+- [Version Control – Git, GitHub, branching strategies](https://github.com/mirjSolution/Git-Module)
+- [Database Overview](https://github.com/mirjSolution/Database-Overview-for-DevOps)
+- [Build & Artifact Tools – Gradle, maven, npm, pip](https://github.com/mirjSolution/DevOps-Engineer-Responsibilities-in-Build-and-Release-Cycle)
+- [DevOps Self-Lab Project: AWS EC2 Infrastructure & Tool Setup](https://github.com/mirjSolution/DevOps-Self-Lab-Project-AWS-EC2-Infrastructure-Tool-Setup)
+- [CI/CD Pipeline Setup of Java Application Project on AWS EC2 with Jenkins, Docker, Maven, Trivy and SonarQube](https://github.com/mirjSolution/Continuous-Integration-Pipeline-Setup-of-Java-Application-Project-)
   
 ---
 
