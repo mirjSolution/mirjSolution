@@ -29,10 +29,10 @@ Building comprehensive "Bucket List Tracker" application on AWS Amplify with Rea
 ---
 Core AWS Technical Skills:
 
-AWS Services: Lambda, S3, Rekognition, Polly, Lex, Translate, Amplify, AppSync, DynamoDB, IAM
-Development: Python with Boto3, AWS CLI, React, GraphQL, serverless architecture
-Infrastructure: Infrastructure as Code, CI/CD pipelines, Git version control
-Actively building hands-on expertise through real-world AWS project implementations.
+- AWS Services: Lambda, S3, Rekognition, Polly, Lex, Translate, Amplify, AppSync, DynamoDB, IAM
+- Development: Python with Boto3, AWS CLI, React, GraphQL, serverless architecture
+- Infrastructure: Infrastructure as Code, CI/CD pipelines, Git version control
+- Actively building hands-on expertise through real-world AWS project implementations.
 ---
 
 ## 💬 Let's Connect
