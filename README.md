@@ -10,7 +10,6 @@
 
 With a background in computer science and certifications in AWS, CompTIA A+, Network+, and Security+, I've reignited my IT career through hands-on labs, now focusing on Cloud Infrastructure and Automation development.
 
-Focus: AWS Cloud Infrastructure and Automation Project Development
 I am actively building expertise in AWS cloud infrastructure, automation, and continuous delivery practices through intensive hands-on projects and real-world implementations. My work emphasizes practical application of AWS services and industry-standard DevOps tools.
 
 Current AWS Projects Portfolio:
