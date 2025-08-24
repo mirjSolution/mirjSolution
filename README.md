@@ -18,7 +18,7 @@ Current AWS Projects Portfolio:
 
 - Built automated image labeling generator using Amazon Rekognition, S3, and Python automation scripts.
 
-Project 2: Text-to-Speech Narrator
+[Project 2: Text-to-Speech Narrator](https://github.com/mirjSolution/text-narrator-aws-polly)
 
 - Developed serverless text narration system using Amazon Polly, Lambda, and S3-triggered processing.
 
