@@ -15,6 +15,7 @@ I am actively building expertise in AWS cloud infrastructure, automation, and co
 Current AWS Projects Portfolio:
 
 [Project 1: Image Recognition System](https://github.com/mirjSolution/Image-Recognition-System)
+
 Built automated image labeling generator using Amazon Rekognition, S3, and Python automation scripts.
 
 Project 2: Text-to-Speech Narrator
