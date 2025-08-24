@@ -16,16 +16,19 @@ Current AWS Projects Portfolio:
 
 [Project 1: Image Recognition System](https://github.com/mirjSolution/Image-Recognition-System)
 
-Built automated image labeling generator using Amazon Rekognition, S3, and Python automation scripts.
+- Built automated image labeling generator using Amazon Rekognition, S3, and Python automation scripts.
 
 Project 2: Text-to-Speech Narrator
-Developed serverless text narration system using Amazon Polly, Lambda, and S3-triggered processing.
+
+- Developed serverless text narration system using Amazon Polly, Lambda, and S3-triggered processing.
 
 Project 3: AI-Powered Translation Chatbot
-Created multilingual translation bot using Amazon Lex, Amazon Translate, and Lambda functions.
+
+- Created multilingual translation bot using Amazon Lex, Amazon Translate, and Lambda functions.
 
 Project 4: Full-Stack Serverless Application
-Building comprehensive "Bucket List Tracker" application on AWS Amplify with React frontend, GraphQL API, and DynamoDB backend.
+
+- Building comprehensive "Bucket List Tracker" application on AWS Amplify with React frontend, GraphQL API, and DynamoDB backend.
 
 ---
 Core AWS Technical Skills:
