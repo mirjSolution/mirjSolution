@@ -26,7 +26,7 @@ Current AWS Projects Portfolio:
 
 - Created multilingual translation bot using Amazon Lex, Amazon Translate, and Lambda functions.
 
-Project 4: Full-Stack Serverless Application
+[Project 4: Full-Stack Serverless Application](https://github.com/mirjSolution/Bucket-List-Tracker---AWS-Amplify-Documentation)
 
 - Building comprehensive "Bucket List Tracker" application on AWS Amplify with React frontend, GraphQL API, and DynamoDB backend.
 
