@@ -22,7 +22,7 @@ Current AWS Projects Portfolio:
 
 - Developed serverless text narration system using Amazon Polly, Lambda, and S3-triggered processing.
 
-Project 3: AI-Powered Translation Chatbot
+[Project 3: AI-Powered Translation Chatbot](https://github.com/mirjSolution/Language-Translation-Bot-using-Amazon-Lex)
 
 - Created multilingual translation bot using Amazon Lex, Amazon Translate, and Lambda functions.
 
