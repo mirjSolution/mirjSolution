@@ -30,11 +30,16 @@ Current AWS Projects Portfolio:
 
 - Building comprehensive "Bucket List Tracker" application on AWS Amplify with React frontend, GraphQL API, and DynamoDB backend.
 
+[Project 5: Event Announcement System using SNS, Lambda and API Gateway](https://github.com/mirjSolution/Project5-AWS-Event-Announcement-System)
+
+- A serverless AWS-powered event management system that allows users to create events and automatically sends email notifications to subscribers using S3, Lambda, API Gateway, and SNS.
+
+
 ---
 Core AWS Technical Skills:
 
-- AWS Services: Lambda, S3, Rekognition, Polly, Lex, Translate, Amplify, AppSync, DynamoDB, IAM
-- Development: Python with Boto3, AWS CLI, React, GraphQL, serverless architecture
+- AWS Services: Lambda, S3, Rekognition, Polly, Lex, Translate, Amplify, AppSync, DynamoDB, IAM, API Gateway, SNS
+- Development: Python with Boto3, AWS CLI, React, GraphQL, serverless architecture, HTML, CSS
 - Infrastructure: Infrastructure as Code, CI/CD pipelines, Git version control
 - Actively building hands-on expertise through real-world AWS project implementations.
 ---
