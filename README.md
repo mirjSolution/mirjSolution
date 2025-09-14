@@ -34,7 +34,7 @@ Current AWS Projects Portfolio:
 
 - A serverless AWS-powered event management system that allows users to create events and automatically sends email notifications to subscribers using S3, Lambda, API Gateway, and SNS.
 
-[Project 6: Data Pipeline for Processing CSV Files Using AWS S3, Lambda, Glue, and QuickSight](https://github.com/mirjSolution/Project5-AWS-Event-Announcement-System](https://github.com/mirjSolution/Project6-AWS-Data-Pipeline-Processing-CSV)
+[Project 6: Data Pipeline for Processing CSV Files Using AWS S3, Lambda, Glue, and QuickSight]
 
 - Automated, serverless data pipeline on AWS for processing CSV files. The solution showcases modern cloud-native architecture patterns and end-to-end data engineering workflows..
 
