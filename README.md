@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rico John C. Dato-on
 
-🎯 AWS Certified | Certified CompTIA A+, Network+, Security+ | Certified Full-Stack Web Developer - CareerFoundry | IT System Administration Graduate – triOS College | BSCS Graduate - STI Philippines
+🎯 AWS Certified Solutions Architect - Associate | Certified CompTIA A+, Network+, Security+ | Certified Full-Stack Web Developer - CareerFoundry | IT System Administration Graduate – triOS College | BSCS Graduate - STI Philippines
 
 📍 Based in Toronto, Canada 🇨🇦  
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-With a background in computer science and certifications in AWS, CompTIA A+, Network+, and Security+, I've reignited my IT career through hands-on labs, now focusing on Cloud Infrastructure and Automation development.
+With a background in computer science and certifications in AWS and CompTIA, I've reignited my IT career through hands-on labs, now focusing on Cloud Infrastructure and Automation development.
 
 I am actively building expertise in AWS cloud infrastructure, automation, and continuous delivery practices through intensive hands-on projects and real-world implementations. My work emphasizes practical application of AWS services.
 
