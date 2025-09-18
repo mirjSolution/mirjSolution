@@ -38,11 +38,16 @@ Current AWS Projects Portfolio:
 
 - Automated, serverless data pipeline on AWS for processing CSV files. The solution showcases modern cloud-native architecture patterns and end-to-end data engineering workflows..
 
+[Project 7: Automated AWS Receipt Processing System](https://github.com/mirjSolution/Automated-AWS-Receipt-Processing-System)
+
+- Automates receipt processing by using AWS services to extract structured data from receipt images or PDFs through AI-powered OCR, store it in a database, and send email notifications with the results.
+
+
 
 ---
 Core AWS Technical Skills:
 
-- AWS Services: Lambda, S3, Rekognition, Polly, Lex, Translate, Amplify, AppSync, DynamoDB, IAM, API Gateway, SNS, Quiksight, Glue
+- AWS Services: IAM, Lambda, S3, Rekognition, Polly, Lex, Translate, Amplify, AppSync, DynamoDB, API Gateway, SNS, Quiksight, Glue, TextTract, SES 
 - Development: Python with Boto3, AWS CLI, React, GraphQL, serverless architecture, HTML, CSS
 - Infrastructure: Infrastructure as Code, CI/CD pipelines, Git version control
 - Actively building hands-on expertise through real-world AWS project implementations.
