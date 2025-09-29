@@ -42,7 +42,9 @@ Current AWS Projects Portfolio:
 
 - Automates receipt processing by using AWS services to extract structured data from receipt images or PDFs through AI-powered OCR, store it in a database, and send email notifications with the results.
 
+[Project 8: AWS Serverless Cloud Dictionary Application](https://github.com/mirjSolution/AWS-Cloud-Dictionary)
 
+- A simple dictionary app where users can search and retrieve cloud computing terms and definitions.
 
 ---
 Core AWS Technical Skills:
